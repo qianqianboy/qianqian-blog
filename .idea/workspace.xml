@@ -16,9 +16,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f64c589f-a33c-4686-8b2c-006d484d8231" name="Default Changelist" comment="">
+    <list default="true" id="f64c589f-a33c-4686-8b2c-006d484d8231" name="Default Changelist" comment="修改了博客名字">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +50,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594018546575</updated>
-      <workItem from="1594018548833" duration="1471000" />
+      <workItem from="1594018548833" duration="2179000" />
     </task>
+    <task id="LOCAL-00001" summary="修改了博客名字">
+      <created>1594020822858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594020822858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +89,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="修改了博客名字" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了博客名字" />
   </component>
   <component name="WindowStateProjectService">
     <state x="827" y="504" width="517" height="350" key="Github.ShareDialog" timestamp="1594018751644">
@@ -93,10 +101,10 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="760" y="310" key="Github.UntrackedFilesDialog/0.0.1920.1200/-1920.0.1920.1200@0.0.1920.1200" timestamp="1594018758563" />
-    <state x="560" y="340" key="Vcs.Push.Dialog.v2" timestamp="1594020708915">
+    <state x="560" y="340" key="Vcs.Push.Dialog.v2" timestamp="1594020824879">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="560" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1200/-1920.0.1920.1200@0.0.1920.1200" timestamp="1594020708915" />
+    <state x="560" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1200/-1920.0.1920.1200@0.0.1920.1200" timestamp="1594020824879" />
     <state x="763" y="521" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594020257663">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
